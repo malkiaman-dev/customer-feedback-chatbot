@@ -1,0 +1,128 @@
+[
+  {
+    "id": "FAQ-01",
+    "question": "What is the AI internship about?",
+    "answer": "Build a beginner-level AI chatbot independently using Python, Streamlit, and an AI API.",
+    "keywords": [
+      "objective",
+      "purpose",
+      "internship"
+    ],
+    "category": "Getting started"
+  },
+  {
+    "id": "FAQ-02",
+    "question": "Which technologies are required?",
+    "answer": "Use Python for application logic, Streamlit for the interface, and an appropriate LLM or AI API for AI responses.",
+    "keywords": [
+      "stack",
+      "language",
+      "framework",
+      "tools",
+      "technology"
+    ],
+    "category": "Getting started"
+  },
+  {
+    "id": "FAQ-03",
+    "question": "What does the FAQ chatbot need to do?",
+    "answer": "Create a predefined FAQ knowledge base, retrieve the relevant question and answer, and return a clear response.",
+    "keywords": [
+      "FAQ",
+      "dataset",
+      "knowledge",
+      "functionality"
+    ],
+    "category": "Getting started"
+  },
+  {
+    "id": "FAQ-04",
+    "question": "What should the README include?",
+    "answer": "Include the project description, technologies used, setup instructions, and usage instructions.",
+    "keywords": [
+      "documentation",
+      "readme",
+      "installation",
+      "setup"
+    ],
+    "category": "Submission"
+  },
+  {
+    "id": "FAQ-05",
+    "question": "Do I need to deploy the chatbot?",
+    "answer": "Yes. Deploy the Streamlit app to a suitable hosting platform, configure API keys securely, and test the main user flow at the public URL.",
+    "keywords": [
+      "hosting",
+      "deployment",
+      "deploy",
+      "online",
+      "public",
+      "live"
+    ],
+    "category": "Deployment"
+  },
+  {
+    "id": "FAQ-06",
+    "question": "What do I submit at the end?",
+    "answer": "Submit a working GitHub repository, source code, README, sample or test data where needed, a deployed Streamlit application and live URL, a short demonstration, and an explanation of the AI pipeline.",
+    "keywords": [
+      "deliverables",
+      "submission",
+      "submit",
+      "github",
+      "demo"
+    ],
+    "category": "Submission"
+  },
+  {
+    "id": "FAQ-07",
+    "question": "How will the project be evaluated?",
+    "answer": "Evaluation covers functionality, AI integration, UI clarity, code quality, documentation, deployment, and your ability to explain the workflow.",
+    "keywords": [
+      "grading",
+      "marks",
+      "assessment",
+      "evaluation",
+      "criteria"
+    ],
+    "category": "Submission"
+  },
+  {
+    "id": "FAQ-08",
+    "question": "Who assigned the project?",
+    "answer": "Fazal Wahid, the AI Team Lead, assigned the internship chatbot project.",
+    "keywords": [
+      "lead",
+      "teacher",
+      "assigned",
+      "fazal",
+      "wahid"
+    ],
+    "category": "Getting started"
+  },
+  {
+    "id": "FAQ-09",
+    "question": "What error handling is required?",
+    "answer": "Validate inputs and show clear errors for invalid inputs and API failures. Show loading or progress indicators where appropriate.",
+    "keywords": [
+      "validation",
+      "errors",
+      "failure",
+      "loading"
+    ],
+    "category": "Development"
+  },
+  {
+    "id": "FAQ-10",
+    "question": "What should the user interface include?",
+    "answer": "Include a clear title and description, a simple chat or input area, visible AI responses, loading indicators, clear error messages, and usage instructions.",
+    "keywords": [
+      "interface",
+      "ui",
+      "screen",
+      "design",
+      "chat"
+    ],
+    "category": "Development"
+  }
+]

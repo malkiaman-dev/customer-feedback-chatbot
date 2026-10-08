@@ -1,0 +1,117 @@
+AI Internship — Chatbot Project Task Assignment
+Beginner-Level AI Projects | Streamlit Interface + Deployment
+Team Lead
+Fazal Wahid
+Role
+AI Team Lead
+Project Level
+Beginner / Internship
+Total Students
+5
+Technology Requirement
+Python + Streamlit + LLM / AI APIs
+1. Assignment Objective
+Each intern will independently build a beginner-level AI chatbot. The project must include a functional Streamlit
+user interface, an AI-powered backend, basic error handling, documentation, and a deployed live version that can
+be accessed through a URL.
+2. Project Assignments
+Student 1 — FAQ Chatbot
+Objective: Build a chatbot that answers user questions from a predefined FAQ dataset.
+Core functionality: Create an FAQ knowledge base, retrieve the relevant question/answer, and return a clear
+response.
+Student 2 — PDF Question-Answer Chatbot
+Objective: Build a chatbot where users upload a PDF and ask questions about its content.
+Core functionality: Extract PDF text, split it into useful chunks, retrieve relevant content, and generate answers
+based on the PDF.
+Student 3 — Website Q&A; Chatbot
+Objective: Build a chatbot that answers questions using the content of a given website.
+Core functionality: Fetch or process the provided website content, create a searchable knowledge base, and
+answer questions from that content.
+Student 4 — CSV Data Chatbot
+Objective: Build a chatbot that allows users to upload a CSV file and ask questions about the data.
+Core functionality: Process the CSV and support natural-language questions such as counts, filtering,
+comparisons, and basic statistics.
+Student 5 — Document Summarizer + Q&A;
+Objective: Build a chatbot that accepts a document, generates a summary, and answers questions about the
+document.
+Core functionality: Support document upload, summarization, and question answering based on the uploaded
+document.
+
+
+3. Common Technical Requirements
+• Build the user interface using Streamlit.
+• Use Python for the application logic.
+• Integrate an appropriate LLM or AI API.
+• Provide a simple chat-style interaction where applicable.
+• Implement basic input validation and error handling.
+• Keep the project code organized and understandable.
+• Create a README.md containing setup instructions, project description, technologies used, and usage
+instructions.
+• Maintain the project in a GitHub repository.
+• Deploy the completed Streamlit application and provide a working public URL.
+• Test the deployed application before submission.
+4. Streamlit Interface Requirements
+• Clear project title and short description.
+• Simple and clean user interface suitable for a beginner project.
+• Required file upload controls for projects that use files.
+• Chat/input area for user questions.
+• Visible AI responses.
+• Loading/progress indication where appropriate.
+• Clear error messages for invalid or unsupported inputs.
+• A small section showing project information or usage instructions.
+5. Deployment Requirements
+Every student must deploy the final Streamlit application and submit the live URL. The deployed application should
+be accessible without requiring the reviewer to run the project locally.
+• Deploy the Streamlit application using a suitable hosting platform.
+• Configure required environment variables/API keys securely.
+• Verify that the deployed application works after deployment.
+• Test the main user flow using the live URL.
+• Submit the live deployment URL together with the GitHub repository URL.
+6. Final Deliverables
+• Working GitHub repository
+• Working deployed Streamlit application
+• Live deployment URL
+• README.md with setup and usage instructions
+• Source code
+
+
+• Sample/test data where required
+• Short project demonstration
+• Brief explanation of how the AI/chatbot pipeline works
+7. Submission Checklist
+Item
+Required
+Streamlit UI
+Yes
+AI / LLM integration
+Yes
+GitHub repository
+Yes
+README documentation
+Yes
+Deployed application
+Yes
+Live URL
+Yes
+Basic testing
+Yes
+Project demo
+Yes
+8. Evaluation Areas
+Area
+What will be checked
+Functionality
+Whether the chatbot performs its assigned task correctly.
+AI Integration
+Whether the AI/LLM is properly integrated into the application.
+UI
+Clarity and usability of the Streamlit interface.
+Code Quality
+Organization, readability, and basic error handling.
+Documentation
+Quality and completeness of the README.
+Deployment
+Whether the deployed application works through the submitted URL.
+Understanding
+Ability to explain the project and its workflow during the demo.
+Assigned by: Fazal Wahid — AI Team Lead
